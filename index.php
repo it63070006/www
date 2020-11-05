@@ -1,8 +1,4 @@
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>HELLO ITF</title>
-  </head>
   <body>
     <h1>MY FIRST WEB</h1>
     <p>นาย กันตวิชญ์ จองกฤษ ชื่อเล่น "เต็ม" </p>
